@@ -17,7 +17,7 @@
 #ifndef LCD_h
 #define LCD_h
 
-#include "WProgram.h"
+#include "Arduino.h"
 
 class LCD {
     public:
